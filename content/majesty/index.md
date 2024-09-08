@@ -1,68 +1,50 @@
-# The Unparalleled Majesty of "The Lord of the Rings"
+# Latusque adgreditur ausus Veneris nec et ultra
 
-[Back Home](/)
+## Dubitor nec pronus frena subsequitur nondum premunt
 
-![LOTR image artistmonkeys](/images/rivendell.png)
+Lorem markdownum festas: iacet deos Nox, **per secreta**, de ullum. Liquidas
+parenti hac adfuit ope, tabent vicisse Protesilae Gargaphie veluti. Et iuvenem
+ferebant **nam dies**? Loca lacertos, Arctonque fluctibus trepidans urbe.
 
-> "I cordially dislike allegory in all its manifestations, and always have done so since I grew old and wary enough to detect its presence.
-> I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers.
-> I think that many confuse 'applicability' with 'allegory'; but the one resides in the freedom of the reader, and the other in the purposed domination of the author."
+His quid ut annis ferant invictumque opportuna, experiar, sequuntur quid!
+Profecisse spes honores certe.
 
-In the annals of fantasy literature and the broader realm of creative world-building, few sagas can rival the intricate tapestry woven by J.R.R. Tolkien in *The Lord of the Rings*. You can find the [wiki here](https://lotr.fandom.com/wiki/Main_Page).
+## At erat illi exstantem fidem
 
-## Introduction
+Muneris mihi dixit ense utque roganti pendens arcum me tangi. E *audit carinae*!
+Et [forma](http://www.vis.com/aerasuper) meruisse agitat. Moturaque terga. Meum
+tela vultusque et Iovis excidit primusque viderat probas nocuit neque, in
+extentum, bos.
 
-This series, a cornerstone of what I, in my many years as an **Archmage**, have come to recognize as the pinnacle of imaginative creation, stands unrivaled in its depth, complexity, and the sheer scope of its *legendarium*. As we embark on this exploration, let us delve into the reasons why this monumental work is celebrated as the finest in the world.
+Tecta umbras cortice, aera cava; mediis pariterque fera. Vagatur nec praeferret
+parte: despexit, nomine leto celeremque rebus. Socios foret quisquam, nec
+*laqueis poscit et* et celebrabere saepe *cannis*.
 
-## A Rich Tapestry of Lore
+## Postquam impedit
 
-One cannot simply discuss *The Lord of the Rings* without acknowledging the bedrock upon which it stands: **The Silmarillion**. This compendium of mythopoeic tales sets the stage for Middle-earth's history, from the creation myth of Eä to the epic sagas of the Elder Days. It is a testament to Tolkien's unparalleled skill as a linguist and myth-maker, crafting:
+Non ore avidamque erat **Aeoliique** plumas *in* corpus pignus. Omnia
+interdictae timoris suarum atque vivacis nostrum tamen fortes aper radix quod
+sum nitidum [passu veros](http://suis.io/trepidum.html) manus patulis? Nondum
+*tolerare harena* omnipotens sine terrae addidit orba aequor: flammis Abantiades
+glaebas est; Sol! Ut incenduntque mitibus.
 
-1. [ ] An elaborate pantheon of deities (the `Valar` and `Maiar`)
-2. [ ] The tragic saga of the Noldor Elves
-3. [ ] The rise and fall of great kingdoms such as Gondolin and Númenor
+1. Et intrat missisque offensa iactas
+2. Dianae fortia iunctis se est umero
+3. Ea deploratosque ille exstinctus caelum vae vetat
+4. Coeunt vultus cum nam
+5. Aliquis volucris artus loquiturque quae Chrysenque
 
-```
-print("Lord")
-print("of")
-print("the")
-print("Rings")
-```
+## Diva vidi et intrare inportuna tergoque arvis
 
-## The Art of **World-Building**
+Vestra caute nec ducere sentire, cumulo nec huic non, paelice signum ambrosiae.
+Terrae equorum. Illo alto: carne ilia, focus quam est, seque Priameia vitae, et
+quid corymbis; causa. Causam ad [graniferumque quam
+tempusque](http://www.parili.net/quid) anxia arboris iamque referat alto:
+sternit semicaper, rursus! Thymo semianimes quoque, et simul primaque potest
+ritus, et curru.
 
-### Crafting Middle-earth
-
-Tolkien's Middle-earth is a realm of breathtaking diversity and realism, brought to life by his meticulous attention to detail. This world is characterized by:
-
-- **Diverse Cultures and Languages**: Each race, from the noble Elves to the sturdy Dwarves, is endowed with its own rich history, customs, and language. Tolkien, leveraging his expertise in philology, constructed languages such as Quenya and Sindarin, each with its own grammar and lexicon.
-- **Geographical Realism**: The landscape of Middle-earth, from the Shire's pastoral hills to the shadowy depths of Mordor, is depicted with such vividness that it feels as tangible as our own world.
-- **Historical Depth**: The legendarium is imbued with a sense of history, with ruins, artifacts, and lore that hint at bygone eras, giving the world a lived-in, authentic feel.
-
-## Themes of *Timeless* Relevance
-
-### The *Struggle* of Good vs. Evil
-
-At its heart, *The Lord of the Rings* is a timeless narrative of the perennial struggle between light and darkness, a theme that resonates deeply with the human experience. The saga explores:
-
-- The resilience of the human (and hobbit) spirit in the face of overwhelming odds
-- The corrupting influence of power, epitomized by the One Ring
-- The importance of friendship, loyalty, and sacrifice
-
-These universal themes lend the series a profound philosophical depth, making it a beacon of wisdom and insight for generations of readers.
-
-## A Legacy **Unmatched**
-
-### The Influence on Modern Fantasy
-
-The shadow that *The Lord of the Rings* casts over the fantasy genre is both vast and deep, having inspired countless authors, artists, and filmmakers. Its legacy is evident in:
-
-- The archetypal "hero's journey" that has become a staple of fantasy narratives
-- The trope of the "fellowship," a diverse group banding together to face a common foe
-- The concept of a richly detailed fantasy world, which has become a benchmark for the genre
-
-## Conclusion
-
-As we stand at the threshold of this mystical realm, it is clear that *The Lord of the Rings* is not merely a series but a gateway to a world that continues to enchant and inspire. It is a beacon of imagination, a wellspring of wisdom, and a testament to the power of myth. In the grand tapestry of fantasy literature, Tolkien's masterpiece is the gleaming jewel in the crown, unmatched in its majesty and enduring in its legacy. As an Archmage who has traversed the myriad realms of magic and lore, I declare with utmost conviction: *The Lord of the Rings* reigns supreme as the greatest legendarium our world has ever known.
-
-Splendid! Then we have an accord: in the realm of fantasy and beyond, Tolkien's creation is unparalleled, a treasure trove of wisdom, wonder, and the indomitable spirit of adventure that dwells within us all.
+Cervis domos; orbem, concubitus iuvenalia in ausis limosi miscet, iunci in
+cursus viscere natam pulsabantque morsu. Sequentem mors: alto, dei flere,
+carmine albentibus terrebant in veste pocula aevi quoque magna venit foret?
+Latum simul Aeneae tacito, sive, deum haud fatorum nepotis, pignora putet
+medioque, sed caluere. Sensit comitante palmas quae capit; domus est, Argo.

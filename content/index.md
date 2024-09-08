@@ -1,32 +1,39 @@
-# Tolkien Fan Club
+# Cum quae in Phoceus
 
-**I like Tolkien**. Read my [first post here](/majesty)
+## Crura rude consuescit
 
-> All that is gold does not glitter
+Lorem markdownum velantque virtutem puer placidissime iacit, visa silentia. Fama
+nisi puppes mihi hoc quorum nunc iuvenesque auctor videor in incumbere, vidisse
+utque; sitim et.
 
-## Reasons I like Tolkien
+## Annis Cephalus sedens artifices habuisse caputque
 
-* You can spend years studying the legendarium and still not understand its depths
-* It can be enjoyed by children and adults alike
-* Disney *didn't ruin it*
-* It created an entirely new genre of fantasy
+Refluum [tale](http://qui-umeri.io/) aque aquarum hospitis. Spectat visa inimica
+longeque crevit, et *quas*. Dicione [stipes](http://quo.net/). Tamen et silicem
+utque ultima mentis tegis *serpentis non* pluvialibus.
 
-## My favorite characters (in order)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+## Sunt tendit vestrum est vestras
 
-Here's what `elflang` looks like (the perfect coding language):
+Ducem illo orbis, et numinis partes imis cruoris Surgit! Quod **agna sub**,
+oraque dei, Bacchi albis, rigorem dira?
 
-```
-func main(){
-    fmt.Println("Hello, World!")
-}
-```
+> Mare spicea, male sus posses quid Iovis generosior quamvis ire guttur
+> proceres, et vultus ense spumam Laertiadaeque hostibus. Pro Achilli vertar
+> sublimia tot tergo versis, inter et auctor, Cycno fretum.
+
+## Tumuletur me ponti lacertis Aetnen
+
+Per est vetustas, squamea sit, et unda Pharosque adempto *vocatur* cognatumque
+*multa* viam quanto. Meis mater esse, egressu mihi **numen** tunc Iovem
+miserere. Laudare clamore causam in tuis des qua, *me videres* Phoebique invita,
+qui sanguine [dubitat](http://charopem.org/nondum) carissime telum; qua.
+Nequiquam Cinyreius iuris; urbe esse, sed retenta parvos. **Adeo simul
+confertque** tantum dedissent natura **mihi curvamine subcubuisse** scelus
+iusto.
+
+Quid quod sis fuit litusque. De grave ipse effugit ultoris Iuppiter Ide illis
+foedera lac. Altera inmedicabile illa est quidem ferunt et scilicet cetera
+Scythicis in fratris erat [certe](http://non.net/), te. Amanti me littera
+vocatur. Cetera saetigeri tincto favus, natus hunc, praecipitem quae evincere,
+utraque?
